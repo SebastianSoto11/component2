@@ -1,0 +1,11 @@
+html {
+    background-color: lightblue;
+  }
+
+.p1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* I used Lucida Sans, tried to use Lucida Console like the example in W3Schools but didnt work
+so used this one. I also used lightblue as background color, couldnt figure out how to fill out
+the borders with the color even after setting the class in <body>, and it's hex would be #add8e6. */
